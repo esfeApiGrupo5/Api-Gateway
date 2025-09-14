@@ -1,10 +1,10 @@
-package com.ApiGateway.ApiGateway;
+package org.esfe;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApiGatewayApplicationTests {
+class ServicesApplicationTests {
 
 	@Test
 	void contextLoads() {
